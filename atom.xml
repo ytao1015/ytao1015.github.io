@@ -39,28 +39,6 @@
   </entry>
   
   <entry>
-    <title>终于把本站的主题改变了一下.md</title>
-    <link href="http://yoursite.com/2020/06/13/%E7%BB%88%E4%BA%8E%E6%94%B9%E5%8F%98%E6%9C%AC%E7%AB%99theme/"/>
-    <id>http://yoursite.com/2020/06/13/%E7%BB%88%E4%BA%8E%E6%94%B9%E5%8F%98%E6%9C%AC%E7%AB%99theme/</id>
-    <published>2020-06-13T20:32:37.000Z</published>
-    <updated>2020-06-13T20:37:41.009Z</updated>
-    
-    <content type="html"><![CDATA[<p>很多废话，不过是对自己的一个记录。 今天弄了大半天，把主题换了换。 然后把menu里的字再换成中文的。<br>在换中文的过程中不是很顺利。 即使我把language 调成了 zh-CN 可menu显示的还是英文。<br>我就直接在网页上改了， 点击control+click 然后选择inspect 然后找到menu字所在的位置，对其进行更改。 学了点html的知识，终于在这里用到了。我是小白，不过对于自己的进步还是很骄傲的～😁</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;很多废话，不过是对自己的一个记录。 今天弄了大半天，把主题换了换。 然后把menu里的字再换成中文的。&lt;br&gt;在换中文的过程中不是很顺利。 即使我把language 调成了 zh-CN 可menu显示的还是英文。&lt;br&gt;我就直接在网页上改了， 点击control+click
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>我的第一篇钓鱼日记</title>
     <link href="http://yoursite.com/2020/06/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%92%93%E9%B1%BC%E6%97%A5%E8%AE%B0/"/>
     <id>http://yoursite.com/2020/06/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%92%93%E9%B1%BC%E6%97%A5%E8%AE%B0/</id>
